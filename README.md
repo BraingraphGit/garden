@@ -1,3 +1,3 @@
 # garden
-for project with that glorious name
+for project with that glorious name -
 happy coding everyone :)
